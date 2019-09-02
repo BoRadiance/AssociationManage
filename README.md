@@ -1,5 +1,5 @@
 # AssociationManage
-基于Django和bootstrap的超简单的社团管理系统,
+基于Django2.2.4和bootstrap3的超简单的社团管理系统,
 
 唔...帮别人写的一个小作业...
 
